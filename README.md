@@ -1,3 +1,5 @@
 # Crop-Detection-by-Sattelite-NDVI-Analysis-Random-Forest-Model
 Detect what crop was or is being grown on fields in the region of Bertem, Belgium in a certain moment in time or the present. Based on the NDVI data collected from Copernicus Satellite program of the field, a Random Forest model will predict the crop grown.
 Data from copernicus combined with https://app.watchitgrow.be/ and physicical observatory for the crop data.
+
+20 Yearly NDVI timeseries with known Crop agriculture, all in total 220 measured samples to train and test the model.
